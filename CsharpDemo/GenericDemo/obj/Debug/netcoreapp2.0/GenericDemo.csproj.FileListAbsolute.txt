@@ -1,0 +1,11 @@
+F:\GithubRepository\DoNET\CSharp\CsharpDemo\GenericDemo\bin\Debug\netcoreapp2.0\GenericDemo.deps.json
+F:\GithubRepository\DoNET\CSharp\CsharpDemo\GenericDemo\bin\Debug\netcoreapp2.0\GenericDemo.runtimeconfig.json
+F:\GithubRepository\DoNET\CSharp\CsharpDemo\GenericDemo\bin\Debug\netcoreapp2.0\GenericDemo.runtimeconfig.dev.json
+F:\GithubRepository\DoNET\CSharp\CsharpDemo\GenericDemo\bin\Debug\netcoreapp2.0\GenericDemo.dll
+F:\GithubRepository\DoNET\CSharp\CsharpDemo\GenericDemo\bin\Debug\netcoreapp2.0\GenericDemo.pdb
+F:\GithubRepository\DoNET\CSharp\CsharpDemo\GenericDemo\obj\Debug\netcoreapp2.0\GenericDemo.csprojResolveAssemblyReference.cache
+F:\GithubRepository\DoNET\CSharp\CsharpDemo\GenericDemo\obj\Debug\netcoreapp2.0\GenericDemo.csproj.CoreCompileInputs.cache
+F:\GithubRepository\DoNET\CSharp\CsharpDemo\GenericDemo\obj\Debug\netcoreapp2.0\GenericDemo.AssemblyInfoInputs.cache
+F:\GithubRepository\DoNET\CSharp\CsharpDemo\GenericDemo\obj\Debug\netcoreapp2.0\GenericDemo.AssemblyInfo.cs
+F:\GithubRepository\DoNET\CSharp\CsharpDemo\GenericDemo\obj\Debug\netcoreapp2.0\GenericDemo.dll
+F:\GithubRepository\DoNET\CSharp\CsharpDemo\GenericDemo\obj\Debug\netcoreapp2.0\GenericDemo.pdb
